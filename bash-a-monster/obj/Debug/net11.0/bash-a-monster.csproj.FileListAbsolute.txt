@@ -14,3 +14,4 @@ C:\Users\tugsbayar.galbadrak\Documents\Programering 2\bash-a-monster\bash-a-mons
 C:\Users\tugsbayar.galbadrak\Documents\Programering 2\bash-a-monster\bash-a-monster\obj\Debug\net11.0\bash-a-monster.genruntimeconfig.cache
 C:\Users\tugsbayar.galbadrak\Documents\Programering 2\bash-a-monster\bash-a-monster\obj\Debug\net11.0\ref\bash-a-monster.dll
 C:\Users\tugsbayar.galbadrak\Documents\Programering 2\bash-a-monster\bash-a-monster\obj\Debug\net11.0\bash-a-m.E8B1717E.Up2Date
+C:\Users\tugsbayar.galbadrak\Documents\Programering 2\bash-a-monster\bash-a-monster\obj\Debug\net11.0\bash-a-monster.sourcelink.json

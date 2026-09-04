@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("bash-a-monster")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+73eb97e76243e0f9f96ee0e3fbb680ca75af6bce")]
 [assembly: System.Reflection.AssemblyProductAttribute("bash-a-monster")]
 [assembly: System.Reflection.AssemblyTitleAttribute("bash-a-monster")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
