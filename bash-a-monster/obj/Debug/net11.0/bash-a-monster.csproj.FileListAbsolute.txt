@@ -1,0 +1,16 @@
+C:\Users\tugsbayar.galbadrak\Documents\Programering 2\bash-a-monster\bash-a-monster\bin\Debug\net11.0\bash-a-monster.exe
+C:\Users\tugsbayar.galbadrak\Documents\Programering 2\bash-a-monster\bash-a-monster\bin\Debug\net11.0\bash-a-monster.deps.json
+C:\Users\tugsbayar.galbadrak\Documents\Programering 2\bash-a-monster\bash-a-monster\bin\Debug\net11.0\bash-a-monster.runtimeconfig.json
+C:\Users\tugsbayar.galbadrak\Documents\Programering 2\bash-a-monster\bash-a-monster\bin\Debug\net11.0\bash-a-monster.runtimeconfig.dev.json
+C:\Users\tugsbayar.galbadrak\Documents\Programering 2\bash-a-monster\bash-a-monster\bin\Debug\net11.0\bash-a-monster.dll
+C:\Users\tugsbayar.galbadrak\Documents\Programering 2\bash-a-monster\bash-a-monster\bin\Debug\net11.0\bash-a-monster.pdb
+C:\Users\tugsbayar.galbadrak\Documents\Programering 2\bash-a-monster\bash-a-monster\obj\Debug\net11.0\bash-a-monster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tugsbayar.galbadrak\Documents\Programering 2\bash-a-monster\bash-a-monster\obj\Debug\net11.0\bash-a-monster.AssemblyInfoInputs.cache
+C:\Users\tugsbayar.galbadrak\Documents\Programering 2\bash-a-monster\bash-a-monster\obj\Debug\net11.0\bash-a-monster.AssemblyInfo.cs
+C:\Users\tugsbayar.galbadrak\Documents\Programering 2\bash-a-monster\bash-a-monster\obj\Debug\net11.0\bash-a-monster.csproj.CoreCompileInputs.cache
+C:\Users\tugsbayar.galbadrak\Documents\Programering 2\bash-a-monster\bash-a-monster\obj\Debug\net11.0\bash-a-monster.dll
+C:\Users\tugsbayar.galbadrak\Documents\Programering 2\bash-a-monster\bash-a-monster\obj\Debug\net11.0\refint\bash-a-monster.dll
+C:\Users\tugsbayar.galbadrak\Documents\Programering 2\bash-a-monster\bash-a-monster\obj\Debug\net11.0\bash-a-monster.pdb
+C:\Users\tugsbayar.galbadrak\Documents\Programering 2\bash-a-monster\bash-a-monster\obj\Debug\net11.0\bash-a-monster.genruntimeconfig.cache
+C:\Users\tugsbayar.galbadrak\Documents\Programering 2\bash-a-monster\bash-a-monster\obj\Debug\net11.0\ref\bash-a-monster.dll
+C:\Users\tugsbayar.galbadrak\Documents\Programering 2\bash-a-monster\bash-a-monster\obj\Debug\net11.0\bash-a-m.E8B1717E.Up2Date

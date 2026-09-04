@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v11.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v11.0": {
+      "bash-a-monster/1.0.0": {
+        "runtime": {
+          "bash-a-monster.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "bash-a-monster/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
